@@ -3551,6 +3551,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: bronze \u2192 copper"
+    },
+    {
+      "timestamp": "2026-06-23T02:01:26.444658",
+      "dna_hash": "cc6b9945c1ebf34f",
+      "generation": 1,
+      "mutation_count": 8,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
